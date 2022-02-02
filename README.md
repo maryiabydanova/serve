@@ -1,5 +1,7 @@
 
 ## Usage
+* You need to run PostgreSQL server locally and add .env file with the credentials. Check example at .env.example
+
 * Install dependencies
 	```
 	npm install
